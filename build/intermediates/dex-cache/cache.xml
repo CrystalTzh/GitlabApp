@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/taozihan/AndroidStudioProjects/GitLab/GitlabApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/taozihan/AndroidStudioProjects/GitLab/GitlabApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0dba6e0173a667ec85d774ed475f7157ce01c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taozihan/AndroidStudioProjects/GitLab/GitlabApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b24521ab4c71b29fb210a8f263ae450a28d3d8e">
+        <dex dex="/Users/taozihan/AndroidStudioProjects/GitLab/GitlabApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ee3130bee6d9eee54f549894a42d7293cfb0f212/classes.dex" />
+    </item>
+
+</items>
