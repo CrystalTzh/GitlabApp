@@ -33,5 +33,15 @@ public class SignInActivity extends AppCompatActivity {
 
             }
         });
+
+        register2.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                intent.setClass(SignInActivity.this, RegisterActivity.class);
+                startActivity(intent);
+
+            }
+        });
     }
 }

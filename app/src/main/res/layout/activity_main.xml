@@ -41,7 +41,8 @@
         android:textStyle="bold"
         tools:layout_editor_absoluteY="278dp"
         app:layout_constraintLeft_toRightOf="@+id/favorite"
-        android:layout_marginLeft="8dp" />
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp" />
 
     <TextView
         android:id="@+id/textView3"

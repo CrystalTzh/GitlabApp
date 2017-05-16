@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         signIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //todo 对照数据库是否有该用户
                 Intent intent = new Intent();
                 intent.setClass(MainActivity.this, SignInActivity.class);
                 startActivity(intent);
